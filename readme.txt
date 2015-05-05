@@ -33,8 +33,8 @@ After downloading and extracting the latest version of k-OC:
 
 = 1.1 05/05/2015 =
 
-* Fix - Check only for plugins that exist in WordPress Plugin Directory.
-* Fix - Send email alert only when at least one plugin is outdated.
+* FIX: Check only for plugins that exist in WordPress Plugin Directory.
+* FIX: Send email alert only when at least one plugin is outdated.
 
 = 1.0 (First Release) 04/05/2015 =
 
@@ -42,8 +42,8 @@ After downloading and extracting the latest version of k-OC:
 
 == Upgrade Notice ==
 = 1.1 =
-* Fix - Check only for plugins that exist in WordPress Plugin Directory.
-* Fix - Send email alerts only when a plugin is outdated.
+* FIX: Check only for plugins that exist in WordPress Plugin Directory.
+* FIX: Send email alerts only when a plugin is outdated.
 
 == Frequently Asked Questions ==
 
