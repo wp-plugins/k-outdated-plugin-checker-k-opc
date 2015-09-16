@@ -2,8 +2,8 @@
 Contributors: kanenas
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MBEQXMDLHQJPC
 Tags: plugin updates, security
-Requires at least: 3.0
-Tested up to: 4.2.1
+Requires at least: 2.8
+Tested up to: 4.3.1
 Stable tag: 1.1
 License: GPLv2
 
@@ -12,11 +12,11 @@ Scans automatically, twice a day, all your installed plugins against the WordPre
 == Description ==
 Scans automatically, twice a day, all of your installed plugins against the WordPress Plugin Directory for outdated plugins and email an alert for update.
 
-**What k-OutDated Checker (k-OC) Does**
+= What k-OutDated Checker (k-OC) Does =
 
 k-OC stands for k-OutDated Checker. k-OC scans automatically, twice a day, all your installed plugins against the WordPress Plugin Directory for outdated plugins and email an alert for immediate update.
 
-**History**
+= History =
 
 k-OC got its start when I had to maintain a lot of WordPress installations which their owners didn't care much about maintenance and security.
 
@@ -33,8 +33,8 @@ After downloading and extracting the latest version of k-OC:
 
 = 1.1 05/05/2015 =
 
-* Fix - Check only for plugins that exist in WordPress Plugin Directory.
-* Fix - Send email alert only when at least one plugin is outdated.
+* FIX: Check only for plugins that exist in WordPress Plugin Directory.
+* FIX: Send email alert only when at least one plugin is outdated.
 
 = 1.0 (First Release) 04/05/2015 =
 
@@ -42,8 +42,8 @@ After downloading and extracting the latest version of k-OC:
 
 == Upgrade Notice ==
 = 1.1 =
-* Fix - Check only for plugins that exist in WordPress Plugin Directory.
-* Fix - Send email alerts only when a plugin is outdated.
+* FIX: Check only for plugins that exist in WordPress Plugin Directory.
+* FIX: Send email alerts only when a plugin is outdated.
 
 == Frequently Asked Questions ==
 
