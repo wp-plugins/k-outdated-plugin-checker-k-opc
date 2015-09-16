@@ -7,7 +7,7 @@ Version: 1.1
 Author: kanenas (aka Nikolas Branis)
 Author URI: https://kanenas.net/
 License: GPLv2
-Text Domain: k-outdated-checker
+Text Domain: k-outdated-plugin-checker-k-opc
 */
 
 /*
