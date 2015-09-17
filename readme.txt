@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: plugin updates, security
 Requires at least: 2.8
 Tested up to: 4.3.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2
 
 Scans automatically, twice a day, all your installed plugins against the WordPress Plugin Directory for outdated plugins and email alert for update.
@@ -31,6 +31,11 @@ After downloading and extracting the latest version of k-OC:
 
 == Changelog ==
 
+= 1.2 17/09/2015 =
+
+* ENHANCEMENT: Internationalizing the plugin (accepting translations).
+* ENHANCEMENT: Implementation of WordPress "PHP Coding Standards" (https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/).
+
 = 1.1 05/05/2015 =
 
 * FIX: Check only for plugins that exist in WordPress Plugin Directory.
@@ -41,9 +46,9 @@ After downloading and extracting the latest version of k-OC:
 * This is the initial release of k-OC.
 
 == Upgrade Notice ==
-= 1.1 =
-* FIX: Check only for plugins that exist in WordPress Plugin Directory.
-* FIX: Send email alerts only when a plugin is outdated.
+= 1.2 17/09/2015 =
+* ENHANCEMENT: Internationalizing the plugin (accepting translations).
+* ENHANCEMENT: Implementation of WordPress "PHP Coding Standards" (https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/).
 
 == Frequently Asked Questions ==
 
